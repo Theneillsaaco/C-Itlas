@@ -1,1 +1,1 @@
-# La carpeta Trabajos es de Itlas
+# La carpeta Itlas es de los trabajos de itlas

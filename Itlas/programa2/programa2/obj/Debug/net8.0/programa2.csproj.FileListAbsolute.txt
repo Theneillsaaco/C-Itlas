@@ -1,0 +1,14 @@
+C:\Users\Issac\source\repos\programa2\programa2\bin\Debug\net8.0\programa2.exe
+C:\Users\Issac\source\repos\programa2\programa2\bin\Debug\net8.0\programa2.deps.json
+C:\Users\Issac\source\repos\programa2\programa2\bin\Debug\net8.0\programa2.runtimeconfig.json
+C:\Users\Issac\source\repos\programa2\programa2\bin\Debug\net8.0\programa2.dll
+C:\Users\Issac\source\repos\programa2\programa2\bin\Debug\net8.0\programa2.pdb
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.AssemblyInfoInputs.cache
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.AssemblyInfo.cs
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.csproj.CoreCompileInputs.cache
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.dll
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\refint\programa2.dll
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.pdb
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\programa2.genruntimeconfig.cache
+C:\Users\Issac\source\repos\programa2\programa2\obj\Debug\net8.0\ref\programa2.dll

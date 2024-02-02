@@ -22,12 +22,14 @@
             promedio = suma / 3;
 
             // Verificar si es promovido
-            if (promedio > 70)
+            if (promedio >= 70)
             {
+                Console.WriteLine($"Su Promedio es: {promedio}");
                 Console.WriteLine("El estudiante es Promocionado :D");
             }
             else
             {
+                Console.WriteLine($"Su Promedio es: {promedio}");
                 Console.WriteLine("El estudiante no es Promocionado");
             }
         }

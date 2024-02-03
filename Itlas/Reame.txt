@@ -1,1 +1,9 @@
 # Aqui estaran los trabajos de clase
+# Introducción a C#
+ConsoleApp2 es el programa 1
+programa2 es el programa 2
+programa 3 es el programa 3
+# Controlar el flujo, convertir Tipos y manejo de excepciones
+programa 4 es el programa 1 
+programa 5 es el programa 2
+programa 6 es el programa 3

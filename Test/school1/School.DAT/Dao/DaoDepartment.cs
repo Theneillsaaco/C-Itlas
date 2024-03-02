@@ -4,8 +4,6 @@ using School.DAL.Exceptions;
 using School.DAL.Interfaces;
 using School.DAL.Enums;
 
-
-
 namespace School.DAL.Dao
 {
     public class DaoDepartment : IDaoDepartment
@@ -34,7 +32,7 @@ namespace School.DAL.Dao
         {
             return this.context.Departments.Where(filter).ToList();
         }
-
+    
         public void RemoveDepartment(Department department)
         {
             Department departmentToRemove = this.GetDepartment(department.DepartmentId);
@@ -97,11 +95,6 @@ namespace School.DAL.Dao
             if (department.Budget == 0)
             {
                 message = "El presuesto no puede ser 0";
-                return true;
-            }
-            if (this.ExtistsDepartments(cd => cd.Name == department.Name))
-            {
-                message = "El nombre ya existe";
                 return true;
             }
              

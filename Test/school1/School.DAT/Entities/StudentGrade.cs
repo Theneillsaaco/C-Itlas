@@ -1,9 +1,12 @@
 ﻿
 
+using System.ComponentModel.DataAnnotations;
+
 namespace School.DAL.Entities
 {
     public partial class StudentGrade
     {
+        [Key]
         public int EnrollmentId { get; set; }
         public int CourseId { get; set; }
         public int StudentId { get; set; }

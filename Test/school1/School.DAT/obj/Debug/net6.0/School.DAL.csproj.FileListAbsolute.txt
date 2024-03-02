@@ -1,0 +1,12 @@
+C:\Users\Issac\source\repos\school\School.DAT\bin\Debug\net6.0\School.DAL.deps.json
+C:\Users\Issac\source\repos\school\School.DAT\bin\Debug\net6.0\School.DAL.dll
+C:\Users\Issac\source\repos\school\School.DAT\bin\Debug\net6.0\School.DAL.pdb
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.csproj.AssemblyReference.cache
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.AssemblyInfoInputs.cache
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.AssemblyInfo.cs
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.dll
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\refint\School.DAL.dll
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\School.DAL.pdb
+C:\Users\Issac\source\repos\school\School.DAT\obj\Debug\net6.0\ref\School.DAL.dll
